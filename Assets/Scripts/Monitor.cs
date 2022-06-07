@@ -11,12 +11,19 @@ public class Monitor : MonoBehaviour
     public bool monitorPressed = false;
     public bool animationEnded = false;
 
-    public bool onCharScreen = false;
-    public bool screenSwitch = false;
+    public bool onCharScreen;
+    public bool onRoundScreen;
+    public bool screenSwitch;
 
-    // Update is called once per frame
+    void Start(){
+        onCharScreen = false;
+        onRoundScreen = true;
+        screenSwitch = false;
+    }
+
     void Update()
     {
+
         animationEnded = animator.GetBool("animationEnded");
         if (redPressed) {
             turnOn();
@@ -26,10 +33,16 @@ public class Monitor : MonoBehaviour
             monitorPressed = false;
         }
         if(redPressed && screenSwitch) {
+            //Debug.Log(" 4 ");
             if(onCharScreen){
                 animator.SetBool("onCharScreen", true);
+
+                animator.SetBool("onRoundScreen", false);
                 screenSwitch = false;
-            } else {
+            }
+            if(onRoundScreen) {
+                animator.SetBool("onRoundScreen", true);
+
                 animator.SetBool("onCharScreen", false);
                 screenSwitch = false;
             }

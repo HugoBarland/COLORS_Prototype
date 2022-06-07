@@ -21,6 +21,8 @@ public class screenOnAnim : StateMachineBehaviour
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         animator.SetBool("animationEnded", true);
+        animator.SetBool("onRoundScreen", true);
+
         //Debug.Log("it happened");
     }
 

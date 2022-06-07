@@ -2,21 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HoverTvG : MonoBehaviour
+public class HoverTv_0 : HoverTvG
 {
-    public bool colliderOn = true;
-    public bool screenChanged = false;
+    public bool tv0Pressed = false;
+    public MonitorImages monitorImage;
+    public PeopleButton peopleButton;
 
-    public void OnMouseOver(){
-        gameObject.GetComponent<Renderer>().enabled = true;
-    }
-
-    public void OnMouseExit(){
-        gameObject.GetComponent<Renderer>().enabled = false;
-    }
-
-
-    void Update()
+    new void Update()
     {
         if (screenChanged) {
             if (colliderOn) {
@@ -29,6 +21,18 @@ public class HoverTvG : MonoBehaviour
                 gameObject.GetComponent<Collider2D>().enabled = false;
             }
         }
+        if (Input.GetMouseButtonDown(0) && tv0Pressed) {
+            tv0Pressed = false;
+
+            monitorImage.tv0Pressed = true;
+            peopleButton.tv0Pressed = true;
+
+        }
+
     }
 
+    
+    void OnMouseDown(){ 
+        tv0Pressed = true;
+    }
 }

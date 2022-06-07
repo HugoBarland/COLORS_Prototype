@@ -187,7 +187,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,7 +208,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,7 +229,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -237,6 +237,132 @@ TextureImporter:
       bones: []
       spriteID: 804ee79d29fedeb40aaa5b5fefc7e033
       internalID: 716679956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xCancel_0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 94
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08be0142225b4e428136676d3c007f0
+      internalID: -702745442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xCancel_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 58
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4470d7f12b140b148aaea36458b44359
+      internalID: -1659253525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xCancel_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 23
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab69bbae5a73504db400c34c718e7a7
+      internalID: -904917194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_0
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 94
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebc71cc1feebe046a29256cd9aa540d
+      internalID: 1633067770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 58
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3ebbd343b1894d9b6e97b2ab42e08
+      internalID: 374235279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: check_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 23
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611cdace4858b8c47852d894345c30eb
+      internalID: -936332910
       vertices: []
       indices: 
       edges: []
@@ -253,7 +379,13 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       peopleButton_1: 891708288
+      check_0: 1633067770
+      xCancel_0: -702745442
       peopleButton_0: 53218042
+      check_2: -936332910
+      xCancel_2: -904917194
+      xCancel_1: -1659253525
+      check_1: 374235279
       rButton_1: -1432322936
       peopleButton_2: 1867210220
       rButton_2: 716679956
