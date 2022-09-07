@@ -22,12 +22,11 @@ public class HoverTvG : MonoBehaviour
     public void Update()
     {
         if (screenChanged) {
+            screenChanged = false;
             if (colliderOn) {
-                screenChanged = false;
                 //actual collider to false
                 gameObject.GetComponent<Collider2D>().enabled = true;
             } else if (!colliderOn){
-                screenChanged = false;
                 //actual collider to true
                 gameObject.GetComponent<Collider2D>().enabled = false;
             }

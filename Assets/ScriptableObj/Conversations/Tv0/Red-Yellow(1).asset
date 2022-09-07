@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Red-Yellow(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+  speakerRight: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Well\u2026 Look who we have here\u2026 How lucky am I to have the prettiest
+      girl with me?"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Red\u2026 please stop\u2026\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I\u2019m just ensuring you are ok. I don\u2019t want you to be scared
+      in this situation. I have everything under control ok?\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I\u2019m not really scared at the moment. I just have a weird feeling.
+      This whole thing doesn\u2019t seem right.\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: 'As I said, I have it under control, baby. No need to be scared.
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Okay. So what\u2019s the plan then?\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: 'Plan for what?
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: 'to escape this situation!! What else?
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: Oh, I thought you were talking about us or something like that.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Us? There is no \u201CUs\u201D Red\u2026 What the hell is wrong with you?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Yellow, don\u2019t act like you don\u2019t know what I am talking about.
+      Or did you forget about that night after the inauguration party?"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: That was a mistake.
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: A beautiful mistake.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Please shut up\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I will, but I need to explain why I\u2019m bringing this up. I want you
+      to remember the words I shared with you."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: Do you remember?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: No...
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: No...
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I said \u201CIt\u2019s ok, I\u2019m with you. I will never let anything
+      happen to you\u201D"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Yeah, yeah, what a gentleman. Can you do me a favor? Can you stop talking
+      about all this and focus on what is happening?
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: Of Course.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Thank you...
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: My theory, dear Yellow, is that all this is just a prank.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: A prank by who?
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I still don\u2019t know. But I assume it\u2019s one of us who came up
+      with this creative idea. A little twisted, but creative I must admit."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: I doubt any of us has such a bad sense of humor.
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "No, really. Think about it. Who\u2019s birthday is around the corner?
+      Mine. I guess whoever came up with this, wanted to test my patience. To see
+      if I would break in fear. Well\u2026 Jokes on them! I won\u2019t break so easily.
+      I have everything under control."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "(-_-) You really are something else\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: I know Hahah! By the way, do you want to do something after the birthday
+      party? Once all this joke is over of course.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Just shut up! (angry)
+    mood: 0
+  nextConversation: {fileID: 0}

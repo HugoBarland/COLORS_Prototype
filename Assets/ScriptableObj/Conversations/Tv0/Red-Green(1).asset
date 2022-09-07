@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Red-Green(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+  speakerRight: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Well\u2026 Here we are. You and me Green. The main guy and the second
+      main guy."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Shut up\u2026\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Wow, relax buddy. I\u2019m just saying it how it is. I\u2019m the leader
+      after all.\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Red, do you ever shut up? for real, man\u2026  no one cares.\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Come on, Green. I\u2019m just messing with you. Listen, being the red
+      one is a big responsibility, you know that. You have seen what we have been
+      through. You are my best friend after all! Always by my side. I know I can
+      be a pain in the ass, but never forget that I care for you Green. You are special.
+      You are my right hand man!\r\n\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Come on, Green. I\u2019m just messing with you. Listen, being the red
+      one is a big responsibility, you know that. You have seen what we have been
+      through. You are my best friend after all! Always by my side. I know I can
+      be a pain in the ass, but never forget that I care for you Green. You are special.
+      You are my right hand man!\r\n\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Ok\u2026\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: " \u2026 (smiles) \u2026 ok, now what the hell do you think is all this?
+      I don\u2019t even remember what I was doing. Do you remember what you were
+      doing before getting stuck to these chairs?"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I\u2019m not sure. What I remember is the meeting that we had, where we
+      were talking about the fight with that big lizard. And then I remember going
+      home, but not much after that."
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I see\u2026 I remember that meeting too. I also remember talking to pink,
+      she wanted me to help her with something you know, but then yellow came to
+      interrupt. After that, I remember going to the office to finish some paperwork,
+      but I\u2019m not sure if I did something else after that.\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: '...
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: '...
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Whoever did this surely is very skilled. To be able to capture the 6 of
+      us. That\u2019s not easy.\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Yeah I guess you are right, but let\u2019s be honest. It\u2019s not like
+      the 6 of us have the same skills. I\u2019m not talking about you or yellow
+      cause she can defend herself, and pink is decent too, but blue and black, Hah,
+      those guys still have so much to learn.\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: 'Yeah ok.
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "You know what I\u2019m thinking, this might be a joke from one of those
+      guys. Like a sleeping poison of some sort."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "a \u201Csleeping poison\u201D? (looks at red with a wtf face)\r\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: 'right, something like that, you know...
+
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: '...
+
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: 'Anyway, what do you think we should do, man?
+
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I\u2019m still figuring it out. But I think that whoever is doing this
+      knows us very well. And that person seems to be working alone.\r\n\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: 'What do you mean?
+
+
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "look at that window over there, it\u2019s a mirror window, if you pay
+      attention you may distinguish a silhouette of someone right in the middle.
+      It\u2019s not a guarantee that this person is alone, but I can only see movements
+      from that small area of the window.\r\n\n\n"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Green\u2026 This is why I love you, my main guy. My second in command.
+      (says jokingly)\r\n\n"
+    mood: 0
+  nextConversation: {fileID: 0}

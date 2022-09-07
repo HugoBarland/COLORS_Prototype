@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Red-Pink(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+  speakerRight: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Well\u2026 Look who we have here\u2026 How lucky am I to have the prettiest
+      girl with me?"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Thank you, Red. So what\u2019s up with all this? Do you have any ideas
+      of what\u2019s happening here?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I don\u2019t know, but don\u2019t worry too much about it. This must be
+      some kind of a joke\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: A joke? Who would have the twisted idea that something like this would
+      be funny?
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Hahah\u2026 To be honest, I was thinking it would be you. My birthday
+      is in a few days and you knew we wouldn\u2019t have time to celebrate\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Red\u2026 You gotta be kidding me\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Alright, now it\u2019s clear that this was not a joke by you. But I really
+      doubt that anyone besides you would have been creative enough to come up with
+      something like this. Well\u2026 Maybe Yellow might have wanted to surprise
+      me like this. I don\u2019t know."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "I doubt she would have wanted to do such a thing\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Maybe she wants to test my ability to remain focused. She knows I\u2019m
+      a strong guy, girls like to see that. They want leadership, you know\u2026?"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Give me a break\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Haha\u2026 Alright, alright\u2026 Jokes aside. I just want to let you
+      know that you don\u2019t need to worry about it. I have it under control alright?"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Ok, then what\u2019s the plan?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Once we are able to communicate with the others, we will have a debriefing
+      session, to brainstorm every thought or every possible suspect\u2026 I mean,
+      I still think this is a joke, but we can play along to see what happens."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Ok, let\u2019s assume this is a joke\u2026 But if so, who would be capable
+      enough to kidnap the six of us and bring us to a place like this?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Hahaha, nobody! That\u2019s how I know this has to be a joke. Nobody is
+      strong enough to do that to us! Maybe individually, sure. Especially the weaklings
+      of the team like Black and Blue. And yeah, I guess you and Yellow could be
+      subdued by a strong masculine criminal. Now Green and I, that would be a little
+      trickier. I know Green is strong enough to destroy a large number of goons,
+      I am capable of doing that too. Hmmm. Maybe Green was the muscle of this joke
+      operation."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Do you really think Green would participate in such a silly joke?
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "True, he is not that type of guy. That\u2019s beneath him\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Alright, I guess we could figure it out another way. I still don\u2019t
+      know why they would put us in pairs."
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I presume they want to make it more romantic you know\u2026 You and me,
+      I think Green was paired with Yellow, and Black and Blue together. Perfect
+      match-making haha!"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "\u2026 (-_-) please kill me."
+    mood: 0
+  nextConversation: {fileID: 0}

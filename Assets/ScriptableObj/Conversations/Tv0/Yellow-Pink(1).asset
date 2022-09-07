@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Yellow-Pink(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+  speakerRight: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: O-M-G, what the fuck is this? This gotta be a joke right? Pink, tell me
+      this has to be a joke!
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "That\u2019s what I\u2019m hoping for! But I\u2019m not sure! But I promise
+      you girl, if we stick together and calm ourselves, everything will be fine
+      soon."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I hope so! I had a date for tomorrow, or is it today? I don\u2019t even
+      know what day it is today!"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Now that you say that, I don\u2019t think I even remember what I was doing
+      before I woke up strapped to this chair."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "really? Because I do remember! I was combing my hair when suddenly in
+      the mirror I saw this robust figure, he was wearing a leather jacket and a
+      rabbit mask. Like the ones from those kids commercials you know? You know what
+      I\u2019m talking about?"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: A robust figure?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Yeah\u2026 A muscular guy with a mask."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "What the hell are you getting into these days? You sure this wasn\u2019t
+      some fantasy dream or maybe one of those weird dates you are having lately?"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Pink\u2026 I\u2019m telling you this guy was big, and he was wearing this
+      rabbit mask. Mr. Boggins, Boogins, whatever his name is\u2026 He was wearing
+      a mask of that rabbit!"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Mr. Vageens. I\u2019ve seen those toys. So this muscular man, what was
+      he like?"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Hell\u2026 I don\u2019t know, Pink. I didn\u2019t really have the time
+      to take him out for a coffee and chat about our aspirations in life\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: I mean, did he seem familiar or someone who could have a grudge against
+      us?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I don\u2019t know. He did not seem familiar to me. He seemed strong, but
+      to be able to capture the six of us? That\u2019s quite impressive."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "It is. That\u2019s very impressive."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Pink...
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Yes?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Can you keep this between us?
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Why? This seems like something important, maybe the group will have something
+      to say about it!
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "The thing is\u2026 I\u2019m not really sure if it was real."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "\u2026 I just asked you if this was a dream and you said no."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "It felt real, the thing is\u2026 I took one of those things I talked to
+      you about\u2026 so\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "My god, Yellow\u2026 you told me you were going to stay away from that\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I\u2019m sorry, but I\u2019m trying, I really am\u2026 I just need you
+      to say nothing, just let\u2019s hear what the rest have to say and if someone
+      experienced something similar, then we can share what I saw. Can you promise
+      me that?"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Yellow...
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Please Pink, please!
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Ok, but you and I will have a long conversation after all this is over\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "That\u2019s my girl! I love you so much!"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Yeah yeah...
+    mood: 0
+  nextConversation: {fileID: 0}

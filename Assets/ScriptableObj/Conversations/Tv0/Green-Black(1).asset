@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Green-Black(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Hey Bla...
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: I don't care about anything you have to say.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Excuse me?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "\u201CExcuse me?\u201D Please\u2026 Maybe the others fall for this act
+      of yours, but not me. I can see through the mask and the schemes. I can see
+      who you truly are\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Oh yeah (angry) and who am I?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "You are\u2026 not as good as everyone says you are\u2026You are not fit
+      to be Red\u2019s right hand man."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: And you are?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Of course I am. I have always been the right candidate.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Alright then let\u2019s test that! If you truly are fit for that position,
+      then surely you came up with a plan or at least a theory for what\u2019s happening
+      here."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Of course I did, but do you really think I\u2019m dumb enough to share
+      that with you? So you could pretend like you came up with it all by yourself?"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Alright, that\u2019s fine then. Let me share what I have noticed. So you
+      tell me if what I\u2019m saying makes any sense. Sounds good?"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "I already told you I don\u2019t need to hear any of the nonsense that
+      comes out of your mouth. But I think I\u2019m ok listening to you at least
+      this once. That way I can correct you from any misleading idea you may have.
+      I don\u2019t want you to come up with something idiotic and share it with the
+      team, and delay the process of solving this whole mystery."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Great, so this is what I noticed. That large window that\u2019s right
+      above our heads. I think there is someone behind it."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "You gotta be kidding me\u2026 Do you even know the difference between
+      a mirror and a window? No? Then let me dumb it down for you ok? If you can
+      see through it, it\u2019s a window, if you see yourself on the other side of
+      it, it\u2019s a mirror. Good? Do you understand now?"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Right, so that mirror above us happens to be both. A mirror and a window.
+      If you pay enough attention you will notice there seems to be the silhouette
+      of someone on the other s\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "A window that is a mirror at the same time. Hahahah you truly are out
+      of your mind. A \u201Csiwewet\u201D? What\u2019s that supposed to mean? All
+      this nonsense and made-up words just to try to sound smart\u2026 Well let me
+      tell you something Mr. Right Hand, you are not smart. Get that in your head."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Alright then, I assume you have something better.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Of course I have, but I\u2019m not going to share it with you. I\u2019m
+      only going to share this with Red and the smart ones of the group. That excludes
+      you\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Ok, that sounds great.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Of course it does.
+    mood: 0
+  nextConversation: {fileID: 0}

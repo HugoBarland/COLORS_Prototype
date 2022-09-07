@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Green-Pink(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+  speakerRight: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Tell me you have a plan\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I\u2019m sorry to disappoint you, but I don\u2019t have much."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Oh boy\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I did notice something though. It\u2019s about that mirror above us."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: The mirror window?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: So you noticed that too.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: You think there is someone on the other side?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I know there is someone on the other side. I saw a figure moving, not much,
+      but enough to know there is a person there.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: So the sick person who did this is also watching us from that place.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "It\u2019s possible, yes."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "I\u2019ll be paying attention to that window from now on. Anything else
+      you noticed?"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Not really, but I must say that all this seems very different from anything
+      we have seen before. Think about it for a second. To think that someone would
+      be able to capture the six of us, and around the same time.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: You are scaring me Green.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I know, but you are the only person I can be fully honest with, and right
+      now Pink I am a little scared too.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Green...
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Pink, I need you to trust me. I will do as much as I can to keep you safe.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Do you promise?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I promise. But I need you to try to collect as much information as you
+      can, anything that you think that might be useful, I need you to share it with
+      the team and with me.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: I will, I promise Green.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Good, and Pink
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: ... yes?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: We are in this together, never forget that. We are a team.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "I know we are. I know we always figure things out in the end, even with
+      Red as a leader\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I meant us, you and me, but yes, the six of us are a team and we can overcome
+      anything.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Oh haha how silly of me.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "So don\u2019t forget that, I will always be here by your side."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: I... I won't forget that
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Good.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Green...
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Yes?
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: I... Mmm... Forget it.
+    mood: 0
+  nextConversation: {fileID: 0}

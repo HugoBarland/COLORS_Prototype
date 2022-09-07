@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Yellow-Black(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Hey princess. I just want to let you know that everything is under control
+      ok?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I\u2019m going to be direct, you are not Red, ok? Stop this act because
+      the only thing you are accomplishing is annoying everyone."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "What are you saying? I\u2019m not trying to be Red\u2026 I am just trying
+      to make you feel safe!"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: yeah... ok.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "I\u2019m sorry ok? I\u2026 just don\u2019t know\u2026 I feel like\u2026
+      you know what\u2026 forget it"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "don\u2019t know what? Come on man\u2026 you can\u2019t do that. We are
+      a team for a reason. If you have a problem we should be honest with ourselves
+      and let the other person know, and that\u2019s what I just did with you, but
+      if you need help in any way, we are there for you!"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "I just don\u2019t get it, Yellow\u2026 Why Green\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: I see.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "He does nothing but criticize everything Red does, and yet Red still keeps
+      him as his right hand man\u2026 I just don\u2019t get it!"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "Maybe that\u2019s why you don\u2019t get it. You follow everything that
+      Red says without questioning anything. Red is not a bad person in any way,
+      but he lacks a lot of knowledge, Black. Many of his decisions seem very questionable."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Then why is he the leader? If he is so full of flaws like you are saying?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "You don\u2019t have to be flawless to be a leader, let alone a good person.
+      He can be difficult to deal with, but at the end of the day he always listens
+      to advice\u2026 sometimes\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "And you think Green gives good advice? I mean, I just don\u2019t see it\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: But he does, Black. Try to be more open to everything he says. Try to listen
+      carefully and you will start to see it.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I\u2019m not kidding, Black. I think you can learn a lot by just listening."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "I can\u2019t promise anything, but we will see."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Black, we are all here for a reason. In this team I mean. Even though some
+      of us are not the smartest, we excel at other things. You and me for example,
+      we excel at martial arts.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "That\u2019s true."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "see? Then maybe right now you are not the Right Hand man, but who says
+      that you can\u2019t be eventually? Just work hard!"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "That\u2019s also true\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Now chin up man, we still have to figure out what the hell is going on
+      in this place.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "I have a theory, it involves Doctor Tyrano Spear and it goes like this\u2026"
+    mood: 0
+  nextConversation: {fileID: 0}

@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Note for myself: Monitor (aka minimonitor) should only be changed by the class
+// that belongs to the button pressed. Example: either PeopleButton or Hovers, etc.
 public class Monitor : MonoBehaviour
 {
     public Animator animator;

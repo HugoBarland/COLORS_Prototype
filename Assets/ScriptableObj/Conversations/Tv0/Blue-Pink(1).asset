@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Blue-Pink(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+  speakerRight: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Hey friend, any cool ideas?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I have some thoughts you might find interesting, Miss Pink.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Cool, what do you have in mind?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I believe there is someone monitoring us from that mirror window above
+      us.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "I had a weird feeling about that window too. And I\u2019ll be honest with
+      you Blue, all this seems a little odd. To think that someone would be able
+      to capture the six of us. Not one, but the six of us."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: This must surely have taken a lot of preparation, and a high skill level.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: But why the need to observe us behind that window? If this person is so
+      skilled, why not simply end us right there where he captured us.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I have not collected enough data to come up with an answer to that, Miss
+      Pink, but I am strongly inclined to believe that if we are still alive, the
+      person or persons behind all this must really be familiar with our routines.
+      Not only that, but all this must be really personal for them.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: So you think that whoever is behind all this knows us?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: Not only that, but also knows us on a personal level.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Someone within the organization you mean? Within the staff?
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Someone within the organization you mean? Within the staff?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Talk to me Blue!
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "Miss Pink, I have run an exhaustive analysis in all this. And if I share
+      this information with you it\u2019s because I have full trust in you, but I
+      think it\u2019s imperative for our survival that you don\u2019t share this
+      piece of information with anybody. Not until I think it\u2019s safe."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "You are scaring me Blue\u2026 (scared face)"
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I need you to promise me this, otherwise I won\u2019t be able to relay
+      this information to you."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Alright, alright, I promise. Now share before I get a heart attack!
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: Suspecting that someone within the staff of the organization could be behind
+      all this is very reasonable. After all, they are aware of all our movements,
+      weaknesses and routines. However, I know the organization. I know their surveillance
+      practices from top to bottom since I helped design the system and the foundation
+      of everything that rules it.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: But we wear the colors for a reason, and even if some of the members seemed
+      to not have been enlightened with the gift of intelligence, they still wear
+      the colors for a reason. They have proven themselves to be capable of performing
+      tasks that the general public could only dream of achieving.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Oh god\u2026 You suspect one of us."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "You do! How could you? How would that even work? That\u2019s impossible!"
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: As I said to you before, Miss Pink. I need you to keep this between us
+      for safety. I shared it because I see you as my friend, and because I am confident
+      enough that your mind could now focus on things that I may ignored. I need
+      you to trust me.
+    mood: 0
+  nextConversation: {fileID: 0}

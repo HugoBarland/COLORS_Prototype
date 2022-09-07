@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Green-Yellow(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+  speakerRight: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: How are you holding up, Yellow?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I think I\u2019m alright. A little concerned, I have to admit\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "That\u2019s understandable. All this seems very unusual."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "That\u2019s what I was thinking. I have a weird feeling about all this\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "It\u2019s ok. We will find a way out."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I really hope so\u2026 To be honest, I kinda feel relieved that I got
+      paired with you\u2026 You always have a plan\u2026 Well, Blue also comes up
+      with good plans, he just lacks the human touch when words come out of his mouth."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Red also has good plans.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: My ass...
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Hahahahah
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: That guy... Oh my god... He is too much sometimes...
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Hahahah... Anyway, I want to share what I noticed so far.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Good. Tell me.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Did you see the large mirror above us?
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: I did. What about it?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I believe that whatever is happening to us. It has something to do with
+      whoever is behind that glass.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I didn\u2019t see anybody, but also, that glass seems to be one of those
+      mirror windows."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "True, and sometimes with the right lighting, you can spot things moving
+      behind the mirror side of those windows. And that\u2019s exactly what happened.
+      I was able to spot the silhouette of someone right in the middle."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Really? What did you see? Did you recognize the person?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I did not. It doesn\u2019t seem to be moving much, but it\u2019s moving.
+      I can tell you that much."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "If that\u2019s the case, I wouldn\u2019t be surprised if that person is
+      able to hear our conversation right now."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: That's very likely.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: Hello you little creep! Could you let us out please? I promise to give
+      you an autographed picture and a hint of a punch on the side!
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I don\u2019t think taunting is the smartest approach Yellow."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "I guess you are right. Call it \u201CYellow\u2019s coping mechanism for
+      weird situations\u201D. Anyway, I assume you have a plan for what to do with
+      this silhouette."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I think the best approach would be to share this information with the
+      others once we are able to. And let\u2019s see if they have something to say."
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: "It doesn\u2019t seem like much. But I guess it is better than no plan."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: And keep your eyes open, we may spot something. interesting.
+    mood: 0
+  nextConversation: {fileID: 0}

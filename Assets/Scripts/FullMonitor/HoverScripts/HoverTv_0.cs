@@ -6,17 +6,18 @@ public class HoverTv_0 : HoverTvG
 {
     public bool tv0Pressed = false;
     public MonitorImages monitorImage;
+    public Monitor miniMonitor;
     public PeopleButton peopleButton;
+    public HoverPair[] hoverpair;
 
     new void Update()
     {
         if (screenChanged) {
+            screenChanged = false;
             if (colliderOn) {
-                screenChanged = false;
                 //actual collider to false
                 gameObject.GetComponent<Collider2D>().enabled = true;
             } else if (!colliderOn){
-                screenChanged = false;
                 //actual collider to true
                 gameObject.GetComponent<Collider2D>().enabled = false;
             }
@@ -26,6 +27,12 @@ public class HoverTv_0 : HoverTvG
 
             monitorImage.tv0Pressed = true;
             peopleButton.tv0Pressed = true;
+            miniMonitor.animator.SetBool("onRoundScreen", false);
+            miniMonitor.animator.SetBool("onTv0", true);
+            for (int i = 0; i < hoverpair.Length; i++){
+                hoverpair[i].screenChanged = true;
+                hoverpair[i].colliderOn = true;
+            }
 
         }
 

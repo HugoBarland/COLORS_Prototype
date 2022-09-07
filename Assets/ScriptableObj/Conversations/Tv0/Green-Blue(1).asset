@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Green-Blue(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+  speakerRight: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I don\u2019t mean to put a lot of weight on your shoulders Blue, but I
+      assume you have come up with a theory of what\u2019s happening here."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "Not much yet, I\u2019m afraid. However, I do have a feeling that whatever
+      is happening it has something to do with whoever is behind that window."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: So you noticed too.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I haven\u2019t noticed much, but I have a strong feeling that whoever
+      is behind all this may be controlling the mechanisms of the chairs from that
+      room."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I agree, Blue. I was able to detect what seemed to be the silhouette of
+      a person behind that glass.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: Quite impressive, I must say. Either you must have a perfect 20/20 vision
+      or your sense of sight is heightened by the adrenaline rush given our circumstances.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I will take that as a compliment, since I really don\u2019t think adrenaline
+      has kicked in yet. And let\u2019s hope it doesn\u2019t. I must say though,
+      this does feel very different from any other situation we have been in. Something
+      doesn\u2019t feel right."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I agree. To think that someone would be able to capture the six of us,
+      and not only that, but to do it around the same time. That would require enormous
+      skill and preparation. The time window surely was narrow.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Not many people are able to do that.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: Is there anything else you noticed with this silhouette you referred to?
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "Not really. It seemed to be the silhouette of a single person, but I couldn\u2019t
+      see anything else."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: Well, then let's plan accordingly.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: I was thinking that we should share this information with the rest. Maybe
+      they can provide some feedback and we could get to a solution sooner.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I\u2019m not completely sure that would be appropriate."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Really? What makes you say that?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: Hmm, I just have a weird feeling.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Are you suspicious of someone?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I'm not sure.
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: "I see\u2026 I guess we could keep ourselves quiet about that silhouette,
+      but I strongly advise against that."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "Maybe there is an impostor among us, and if that\u2019s the case. Wouldn\u2019t
+      revealing our thoughts put us at a disadvantage with whoever is doing this."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: What do you propose then? Because keeping information to ourselves does
+      not sound like a good plan either. Besides, what makes you think there could
+      be an impostor?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "Let\u2019s just try to make sure everyone is whoever they say they are."
+    mood: 0
+  - character: {fileID: 11400000, guid: d44dfd2aaf0b31c43b418e0aaaed09a7, type: 2}
+    text: Fair enough. But tell me, what makes you think there is an impostor among
+      us?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I think...
+    mood: 0
+  nextConversation: {fileID: 0}

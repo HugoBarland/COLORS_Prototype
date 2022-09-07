@@ -313,7 +313,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -334,7 +334,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -355,7 +355,7 @@ TextureImporter:
         width: 33
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -363,6 +363,195 @@ TextureImporter:
       bones: []
       spriteID: 611cdace4858b8c47852d894345c30eb
       internalID: -936332910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokenGreen
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 198
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37615cd0862ed3d43a86a93f728de1d8
+      internalID: 1654581239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokenRed
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 197
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e592c3049bd04ab8239b954845264
+      internalID: -20864147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokenBlue
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 195
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d859276e9cf9a24497312056aa858d1
+      internalID: -578407908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokenYellow
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 194
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f908e75a3d5b9043b2cba636ddf9962
+      internalID: 344846490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokenBlack
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 194
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094dab36969df34b9126ebd2d19dc2c
+      internalID: 1835434896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tokenPink
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 137
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498f6b6188167b4aa61a865897eeda5
+      internalID: 498055010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rouletteButton_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 94
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04512b60bb2faa478ef29b3734d8e9f
+      internalID: 1923500781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rouletteButton_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 58
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fdba1bc3cca0478c6f07b9343f934
+      internalID: 2020119981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rouletteButton_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c734cf55aed5e45bdd23c1985a624e
+      internalID: -575496998
       vertices: []
       indices: 
       edges: []
@@ -380,15 +569,24 @@ TextureImporter:
     nameFileIdTable:
       peopleButton_1: 891708288
       check_0: 1633067770
+      tokenRed: -20864147
+      rouletteButton_1: 2020119981
       xCancel_0: -702745442
       peopleButton_0: 53218042
+      tokenYellow: 344846490
+      tokenBlack: 1835434896
       check_2: -936332910
       xCancel_2: -904917194
       xCancel_1: -1659253525
       check_1: 374235279
+      tokenPink: 498055010
+      rouletteButton_0: 1923500781
+      rouletteButton_2: -575496998
       rButton_1: -1432322936
+      tokenGreen: 1654581239
       peopleButton_2: 1867210220
       rButton_2: 716679956
+      tokenBlue: -578407908
       rButton_0: -430613664
   spritePackingTag: 
   pSDRemoveMatte: 0

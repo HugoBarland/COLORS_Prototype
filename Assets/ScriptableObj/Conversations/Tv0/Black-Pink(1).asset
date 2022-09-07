@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Black-Pink(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+  speakerRight: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Hey princess. I just want to let you know that everything is under control
+      ok?
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "That\u2019s very kind of you, Black. I appreciate you trying to make me
+      feel safe. But I have to inform you that right now I\u2019m not necessarily
+      worried."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Alright, very good. I just needed to make sure of that!
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Thank you. Now, I think we should focus on finding a solution to whatever
+      this is.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "right, that\u2019s exactly what I was going to propose. Do you have anything
+      in mind honey?"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "I\u2019m still thinking about it. But how about you Black? Do you have
+      any thoughts?"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: I do. I have a theory and I was planning to present it to Red. I have several
+      suspects, and some of them I think I should address them with Red directly,
+      but one I can share with you is Doctor Tyrano Spear.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Tyrano Spear? Wasn\u2019t he locked up at the prison of Kira?"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "He is, but his network is large and I presume he must have had some connections
+      that would be able to do all this. After all, he wasn\u2019t very happy when
+      we captured him."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: No one really is...
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Yeah, but I feel he was angrier that most after we destroyed his ship.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Ha! I can\u2019t really blame him, that was a nice ship. But I\u2019m
+      not sure about this theory to be honest. We can share this with the group,
+      for sure."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "I just have a weird feeling about that guy\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "I see\u2026 but what about the other suspects you mentioned? The ones
+      you said you will share with Red?"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Oh! I think\u2026 I mean\u2026 don\u2019t worry about it! It\u2019s just
+      nothing!"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: What? You suspect me? Why are you not sharing?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "You? No! No no no! Of course not! I\u2026 I just feel it may be a silly
+      theory so I don\u2019t really want to bore you with something that may really
+      lead to nothing. That\u2019s why I wanted to share this with Red first and
+      hear his opinion. Depending on what he thinks we will see if it\u2019s worth
+      sharing."
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Come on\u2026 but who is it? I promise I won\u2019t criticize or laugh
+      if that\u2019s what you are afraid of. Red trusts me, you have seen that!"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Well that is true...
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "Now share. I promise I won\u2019t say anything unless you say it first!"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Okay\u2026 I think that\u2026 Hmm"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "What? Come on\u2026 share\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: I think that Victor Vortex may be behind all this.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: You do know he is dead right?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Yes...
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: Then how is he going to be behind all this?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: I actually think he is alive. Hiding in the shadows and never really died.
+    mood: 0
+  - character: {fileID: 11400000, guid: c32cb4df1feb83e429045fa31002e32f, type: 2}
+    text: "His body was burnt to a crisp\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: How do you know it was him?
+    mood: 0
+  nextConversation: {fileID: 0}

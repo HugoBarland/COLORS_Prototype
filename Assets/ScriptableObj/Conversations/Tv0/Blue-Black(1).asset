@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Blue-Black(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Alright Blueie boy, what do you have for me? Anything I should be aware
+      of?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "There are a few things I can share with you Black. Things that I\u2019ve
+      noti\u2026"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Woh woh woh, hold on a sec. \u201CSir\u201D, you have to call me \u201Csir\u201D.
+      I am your superior, remember?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I think you have gotten confused with the hierarchy of our organization,
+      but if you prefer to be called \u201Csir\u201D. Then I can definitely make
+      some arrangements to my speech patterns and modify it according to your request."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Good, now keep going. Let me hear what you have to say Blueie boy.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: I have run some calculations and my analysis concludes that there must
+      be someone monitoring our performance within this room.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Did you forget something?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I still have more calculations to run, but no\u2026 I don\u2019t think
+      I forgot anything important."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: not about the nonsense you just shared. But you forgot one word.
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: One word?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "\u201CSir\u201D! You have to call me \u201Csir\u201D! Every single time."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Going back to what you just shared. First of all, \u201Cmirror window\u201D?
+      Are you insane? There are windows, which you see through them. And then there
+      are mirrors, which you use to  see yourself. But mirror windows? Give me a
+      break. Now you listen to me. Considering that your \u201Canalysis\u201D is
+      total garbage. I will show you what a true analysis sounds like."
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I appreciate your enthusiasm, \u201Csir\u201D, but I strongly believe
+      our time could be spent more effectively if we explore what I have proposed."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Blueie boy, but if what you proposed is total garbage. How are we supposed
+      to find it of any use? So hear me out and shut up for one minute alright?
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: ...
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "This is probably what really happened. The mathematical equations in my
+      head had led me to the scientific conclusion that all this was an act\u2026
+      no, not an act, an attack! From our most deceiving enemy. Doctor Tyrano Spear.
+      I have studied his movements for weeks, no, months! And I have come to the
+      conclusion, scientific conclusion, that this guy is the most sneaky threat
+      we have ever faced! He is probably the one behind all this and when I present
+      this theory to Red, I know he will agree! He will probably promote me to be
+      the new right hand man. What do you say?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: "I apologize, were you saying something \u201Csir\u201D? I was busy making
+      some calculations and came to a terrifying conclusion."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "\u2026 (disappointment)... which is?"
+    mood: 0
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: We're doomed.
+    mood: 0
+  nextConversation: {fileID: 0}

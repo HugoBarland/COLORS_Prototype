@@ -20,7 +20,6 @@ public class returnButtonAnimEnds : StateMachineBehaviour
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         Camera.main.transform.Translate(0,2.78f,0);
-        //Debug.Log("it happened");
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

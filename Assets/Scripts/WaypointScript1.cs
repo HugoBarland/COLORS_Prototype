@@ -1,7 +1,11 @@
 using System.Collections;
 using UnityEngine;
+//Credit: Code from JL Unity tutorial, modify for personal use.
 
 public class WaypointScript1 : MonoBehaviour {
+
+    public Animator animator;
+    public string nameOnChair = "none";
 
     // Array of waypoints to walk from one to the next one
     [SerializeField]
@@ -37,23 +41,22 @@ public class WaypointScript1 : MonoBehaviour {
         }
 	}
 
-    // Method that actually make Enemy walk
+
     private void Move()
     {
-        // If Enemy didn't reach last waypoint it can move
-        // If enemy reached last waypoint then it stops
+        // If object reached last waypoint then it stops
         if (waypointIndex <= waypoints.Length - 1)
         {
 
-            // Move Enemy from current waypoint to the next one
+            // Move Object from current waypoint to the next one
             // using MoveTowards method
             transform.position = Vector2.MoveTowards(transform.position,
                waypoints[waypointIndex].transform.position,
                moveSpeed * Time.deltaTime);
 
-            // If Enemy reaches position of waypoint he walked towards
+            // If Object reaches position of waypoint it moved towards
             // then waypointIndex is increased by 1
-            // and Enemy starts to walk to the next waypoint
+            // and Object starts to move to the next waypoint
             if (transform.position == waypoints[waypointIndex].transform.position)
             {
                 waypointIndex += 1;

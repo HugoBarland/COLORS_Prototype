@@ -1,4 +1,5 @@
-using System.Collections;
+
+ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,6 +12,8 @@ public class PeopleButton : MonoBehaviour
 
     public MonitorImages monitorImage;
     public Monitor miniMonitor;
+    public redButton redButton;
+    public HoverPair[] hoverpair;
 
     public bool checkButtonPressed = false;
 
@@ -63,7 +66,22 @@ public class PeopleButton : MonoBehaviour
             checkButtonPressed = true;
             animator.SetBool("CheckButtonPressed", true);
 
-            
+            miniMonitor.animator.SetBool("onTv0", false);
+            if (!monitorImage.redButtonScreenPressed){
+                miniMonitor.animator.SetBool("onPressRedButton", true);
+                gameObject.GetComponent<Renderer>().enabled = false;
+                redButton.startTv0 = true;
+            } else {
+                animator.SetBool("firstCheckPressed", true);
+                miniMonitor.animator.SetBool("onTv0", false);
+                miniMonitor.animator.SetBool("onRoundScreen", true);
+                
+                for (int i = 0; i < hoverpair.Length; i++){
+                    hoverpair[i].screenChanged = true;
+                    hoverpair[i].colliderOn = false;
+                }            
+            }
+     
 
         }else if(tv0Pressed){
             tv0Pressed = false;

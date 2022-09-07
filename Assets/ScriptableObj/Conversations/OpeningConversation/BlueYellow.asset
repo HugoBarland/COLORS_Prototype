@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: BlueYellow
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+  speakerRight: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: e2a82652316402c4292958b75df1a6f4, type: 2}
+    text: the Homni Computer is not giving any signals outside this room.
+    mood: 0
+  - character: {fileID: 11400000, guid: cbc64979ff92ad9499b2b4338a7102f1, type: 2}
+    text: OMG! I don't have time for this bullshit, I've got a date tonight!
+    mood: 0
+  nextConversation: {fileID: 11400000, guid: bbc86eb39f6945743a6d700f30f4eaf0, type: 2}

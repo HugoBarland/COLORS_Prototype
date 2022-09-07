@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a9156d0f0704744ade798d1763f919, type: 3}
+  m_Name: Red-Black(1)
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Alright boss, what\u2019s the plan? Anything you say, I will make sure
+      it gets done."
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "Excellent. Alright first we have to figure out the machinery that\u2019s
+      being used for all this. That way we have a list of suspects that may be able
+      to afford such equipment."
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "That\u2019s a great plan boss. I didn\u2019t expect any less from you.
+      Only the best. "
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: Great, but you are forgetting one of the most important steps we must follow
+      in a situation like this one.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Of course, I almost forgot. We should find a way to get ourselves out of
+      these chairs!
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "No Black, you still have a lot to learn\u2026 The first thing we should
+      focus on is to ensure that the morale is high. Did you see everyone's faces
+      when they woke up? All of them were scared and looking at me in despair!"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "That\u2019s true boss, I always get hopeful just by looking at you. It
+      fills my inner self with so much energy. It\u2019s like I\u2019m about to explode
+      just by feeling your energy."
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "\u2026 Ok (nervous smile)"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Alright!
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: 'Ok, once we are able to talk to the others again, we must ensure we are
+      giving them hope. This is a crucial step. Then we can start figuring out the
+      rest. Sounds good?
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: 'Sounds great!
+
+'
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: In the meantime, we should start figuring out who may have done this.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Green.
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: What?
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "With all due respect, boss, I know you have high opinions of him, but
+      it\u2019s been a while that I have noticed his erratic behavior. And his loyalty
+      seems to be elsewhere. I don\u2019t think he is devoted enough to this cause."
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: Listen to me Black.
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Boss, yes sir.
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: "I don\u2019t want you to say that ever again. All of us are part of this
+      team for a reason, and if you doubt Green, who is my right hand man, then you
+      are doubting me. After all, I was the one who made the decision of making him
+      my right hand man. Are you doubting my judgment, Black?"
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: Of course not, I would never boss! You know I respect you more than anybody
+      else.
+    mood: 0
+  - character: {fileID: 11400000, guid: e694c1592c8f53f49905aa8eb29677ea, type: 2}
+    text: Then you are completely out of your mind! Everyone deserves to be respected
+      equally! Except criminals! But everyone in this team, every civilian no matter
+      how weak they might be, must be respected!
+    mood: 0
+  - character: {fileID: 11400000, guid: 2301c3b56d2c3734abb971700d89cb14, type: 2}
+    text: "Boss, yes sir! I won\u2019t ever make that mistake again!"
+    mood: 0
+  nextConversation: {fileID: 0}
